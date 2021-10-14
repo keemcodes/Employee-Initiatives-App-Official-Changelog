@@ -9,6 +9,7 @@ This is the official changelog for the Employee Initiatives Application
 * Integrates with Microsoft Active Directory to allow for Single Sign On
   * Uses Microsoft Active Directory information to generate user accounts
     * User is never required to create an account
+* Multi platform and responsive (desktop, tablet and mobile views available)
 #### Additional Features
 * Download PDF Copy of goals and initiatives
 * Adjust text size by increasing or decreasing font
