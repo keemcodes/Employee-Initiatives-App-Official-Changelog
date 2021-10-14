@@ -12,6 +12,9 @@ This is the official changelog for the Employee Initiatives Application
 #### Additional Features
 * Download PDF Copy of goals and initiatives
 * Adjust text size by increasing or decreasing font
+* Expand mode - collapses page columns into a row to widen display
+* Dark mode / Light mode toggle
+* "Classic View" which displays data in old WIG form format
 
 
 # Application Link
