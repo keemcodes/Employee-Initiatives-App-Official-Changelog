@@ -21,4 +21,4 @@ This is the official changelog for the Employee Initiatives Application
 Application is located here:
 https://github.com/keemcodes/EmployeeInitiatives-AD-Integrated
 
-The repo is currently private as it contains private information related the Aviation department.
+The repo is currently private as this is an internal application for the Aviation Department
