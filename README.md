@@ -1,5 +1,5 @@
 # Employee-Initiatives-App-Official-Changelog
-This is the official changelog for the Employee Initiatives Application
+This is the official changelog for the Employee Initiatives Application. This is a 100% custom designed and coded web application by myself (minus public frameworks of course)
 
 # Application Features
 #### Main Functionality
