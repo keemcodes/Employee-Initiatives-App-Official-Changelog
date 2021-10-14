@@ -18,7 +18,9 @@ This is the official changelog for the Employee Initiatives Application
 * Expand mode - collapses page columns into a row to widen display
 * Dark mode / Light mode toggle
 * "Classic View" which displays data in old WIG form format
-
+* 
+### Application Screenshot
+![Application Screenshot](desktop-display.png)
 
 # Application Link
 Application is located here:
