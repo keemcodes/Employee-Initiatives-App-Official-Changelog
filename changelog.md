@@ -96,23 +96,32 @@ Submissions – Goals reference table
 - [x] Classic View button will be moved to an icon instead of a button
 - [x] Add Expand Mode – This will allow user to expand table out into a full screen view
 - [x] Add Text Sizing – This will allow users to increase or decrease the size of text
-- [ ] Add Notifications – User will receive a notification when selected for a “clear the path” task.
-- [ ] Clicking the notification bell will switch the table view to a the “clear the path” requests
-- [ ] Arrow Navigator – This will allow users to navigate their submissions via Arrow keys. Left goes backwards, right goes forward.
-- [ ] Add Date Picker – This will allow users to pick the date on a GUI calender instead of typing in numbers
-- [ ] Email notification will be sent out to the selected user
-- [ ] User Feedback - Send user feedback when action occurs (adding a goal/path)
+- [x] Add Notifications – User will receive a notification when selected for a “clear the path” task.
+- [x] Clicking the notification bell will switch the table view to a the “clear the path” requests
+- [x] Arrow Navigator – This will allow users to navigate their submissions via Arrow keys. Left goes backwards, right goes forward.
+- [x] Add Date Picker – This will allow users to pick the date on a GUI calender instead of typing in numbers
+- [x] User Feedback - Send user feedback when action occurs (adding a goal/path)
 - [x] Tool Tip - Add a tool tip description for all icons and buttons
-- [ ] Alt parameters - Give each button, image and icon an alt parameter for ADA compliance
 - [x] Dark Mode Icon Change - Change shading of icon to indicate whether light or dark mode is toggled
-- [ ] Provide description when user hovers over table fields 
+- [x] Look into removing the goal ID section for more table space
+- [x] Notifcations - Remove bell icon if no notifications exist
+- [x] Expand Mode - Allow tables to fit to content
+- [ ] Provide description when user hovers over table fields
+- [ ] Alt parameters - Give each button, image and icon an alt parameter for ADA compliance
+- [ ] Email notification will be sent out to the selected user (must be implemented in prod due to test server limitations)
 
 ### Bug Fixes per version 1.3 and 1.4
 - [x] Fix table sizing issues
 - [x] Fix window sizing issues on laptop displays
 - [x] Fix issue on line 30 of download-template.php (undefined var $main) 
 - [x] Fix issue on line 2 of hamburgermenu.php (undefined var $colorSheet) 
-- [ ] Few more small adjustments should be made for laptop displays (hamburger menu overlapping with table, week of disappears when zoomed)
 - [x] Fix issue with "Add Goal" becoming "Add Path" when user closes form
 - [x] Fix issue submission table overlapping format :(
-- [ ] Fix response live search field for Paths form
+- [x] Fix response live search field for Paths form
+- [x] Fix bell icon click action for submission page. Generating multiple javascript errors.
+- [x] Fix issue with text failing to size on for requester table
+- [x] Remove bell icon when no notifications exist
+- [x] Fix issue with color mode toggling twice (probably eventlistener bug of some kind)
+- [ ] Few more small adjustments should be made for laptop displays (hamburger menu overlapping with table, week of disappears when zoomed)
+- [ ] Last employee submission for loadcontent.php needs to be fixed for submissions page
+- [ ] Prev/Next feature must be changed for submission.php page
